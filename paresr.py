@@ -1,5 +1,4 @@
 import PyPDF2
-import re
 from nltk.tokenize import RegexpTokenizer,sent_tokenize,word_tokenize
 
 # pdf file object
